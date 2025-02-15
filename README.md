@@ -11,10 +11,15 @@ This is a simple chat bot that can respond to various questions and error messag
 ## Setup
 
 1. Clone the repository to your local machine.
+
+```sh
+git clone https://github.com/yourusername/free-chat.git
+```
+
 2. Navigate to the project directory.
 
 ```sh
-cd /Users/nebuff-vje/Documents/Developing/Simple Chat Bot
+cd free-chat
 ```
 
 3. Install the necessary dependencies (if any).
@@ -26,13 +31,13 @@ To run the chat bot, you can use the provided shell script:
 1. Make the script executable by running the following command in the terminal:
 
 ```sh
-chmod +x "/Users/nebuff-vje/Documents/Developing/Simple Chat Bot/run"
+chmod +x run
 ```
 
 2. Add the project directory to your PATH by adding the following line to your shell configuration file (e.g., `.zshrc` or `.bashrc`):
 
 ```sh
-export PATH=$PATH:"/Users/nebuff-vje/Documents/Developing/Simple Chat Bot"
+export PATH=$PATH:"$(pwd)"
 ```
 
 3. After updating your shell configuration file, reload it by running:
