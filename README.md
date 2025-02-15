@@ -13,13 +13,13 @@ This is a simple chat bot that can respond to various questions and error messag
 1. Clone the repository to your local machine.
 
 ```sh
-git clone https://github.com/yourusername/free-chat.git
+git clone https://github.com/nebuff/FreeChat.git
 ```
 
 2. Navigate to the project directory.
 
 ```sh
-cd free-chat
+cd FreeChat
 ```
 
 3. Install the necessary dependencies (if any).
@@ -57,7 +57,7 @@ run
 Here are some example interactions with the chat bot:
 
 ```plaintext
-ChatBot is running. Type your questions below:
+Free Chat is running. Type your questions below:
 > What's your name?
 - My name is ChatBot.
 > Tell me a joke
