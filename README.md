@@ -67,9 +67,7 @@ Free Chat is running. Type your questions below:
 > ZeroDivisionError: division by zero
 - This error occurs when you try to divide a number by zero. Make sure the divisor is not zero.
 > What time is it?
-- The time is (TIME)
-> What's the weather like?
-- The weather is (WEATHER)
+- The time is 9:19PM
 ```
 
 ## Adding New Examples
